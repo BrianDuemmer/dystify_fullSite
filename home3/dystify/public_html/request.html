@@ -1,0 +1,70 @@
+<?php session_start(); ?>
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Request Songs | Dystify</title>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i|Poppins:300,400,500,600" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="vendor/reset.css">
+    <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/ion-icons/ionicons.min.css">
+    <link rel="stylesheet" href="vendor/owl-slider/owl.carousel.css">
+    <link rel="stylesheet" href="vendor/slideshow/slideshow.css">
+    <link rel="stylesheet" href="vendor/lightbox/lity.min.css">
+    <!-- Theme CSS -->
+    <link id="theme" rel="stylesheet" href="css/theme.css">
+    
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    
+    <!-- Custom -->
+    <link rel="stylesheet" href="css/login.css">
+    <script type="text/javascript" src="js/login.js"></script>
+    
+    <script src="vendor/modernizr.js"></script>
+    
+    <style type="text/css">
+    	.body_container {
+    		position: absolute;
+            top: 0; right: 0; bottom: 0; left: 0;
+           	padding: 0px;
+    	}
+    </style>
+</head>
+
+<body>
+	<div class="body_container">
+   		<?php include("includes/header_new.php"); ?>
+        <!-- Header -->
+        <header id="sp3" class="dark1" style="background-image:url(img/headers/subpage.jpg)"
+            data-overlay="9">
+            <div class="header-in">
+                <div class="caption2">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6 page-title">
+                                <h1 class="h3">24/7 Nintendo Music Live Stream</h1></div>
+                            <div class="col-xs-6 right breadcrumbs hidden-xs">
+                                <a href="https://dystify.com">Home</a> <i class="ion-chevron-right"></i>                                
+                                <a href="#">Request Songs</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+       	<iframe class="request_page_frame" style="width:100%; height:100%;" src="/kkdystrack/php/request_page.php" ></iframe> 
+		<?php include("includes/footer.php"); ?>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+@media screen and (max-width: 700px) {
+    .song-container {
+			  grid-template-columns: repeat(10, 1fr);
+				grid-template-rows: repeat(33vh, 3);
+        grid-template-areas:
+					"s s s s s s s s s s"
+					"s s s s s s s s s s"
+					"m m m m m m m m m m";
+    }
+		body {
+			font-size: calc(.3vw + 1vh + 1vmin);
+		}
+		th.table-header {
+			font-size: calc(1vw + 1vh + .5vmin);
+		}
+		body .song-table {
+			table-layout: auto;
+		}
+		body .song-select {
+			min-height: calc(33vh * 2);
+			max-height: calc(33vh * 2);
+		}
+		body .tree-nav {
+			min-height: calc(33vh * 1);
+			max-height: calc(33vh * 1);
+		}
+}

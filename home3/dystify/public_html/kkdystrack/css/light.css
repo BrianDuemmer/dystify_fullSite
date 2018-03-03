@@ -1,0 +1,57 @@
+body {
+	background-color: white;
+}
+
+.song-select {
+	background-color: rgb(247, 247, 247);
+}
+
+.tree-nav {
+	background-color: rgb(220, 220, 220);
+}
+
+th, td {
+	color: black;
+}
+
+td.table-header {
+	color: rgb(70, 70, 70);
+}
+
+td.cooldown {
+	background-color: rgba(220, 220, 220, 150);
+}
+
+tr.selected {
+	background: linear-gradient(90deg, rgba(200, 200, 200, 1), rgba(200, 200, 200, .8));
+	color: hsla(218, 5%, 47%, 0.6);
+}
+
+tr.song {
+	//background: rgb(241, 242, 245);
+}
+
+.ost-selected {
+	background-color: rgba(200, 200, 200, 75);
+	color: hsla(218, 5%, 47%, 0.6);
+}
+
+li.selected {
+	background-color: rgba(200, 200, 200, 75);
+	color: hsla(218, 5%, 47%, 0.6);
+	padding: 5px;
+}
+
+/* Custom scrollbar */
+
+.custom-scrollbar::-webkit-scrollbar-track {
+	background-color: #F5F5F5;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+	background-color: #F5F5F5;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+	background-color: #434343;
+}

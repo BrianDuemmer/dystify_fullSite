@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <!-- Basic --> 
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Stream Selects | Dystify</title>
+    <meta name="keywords" content="<?php echo $page_keywords; ?>"/>
+    <meta name="description" content="<?php echo $page_description; ?>"/>
+    <meta name="author" content="<?php echo $page_author; ?>"/>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i|Poppins:300,400,500,600" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="vendor/reset.css">
+    <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/ion-icons/ionicons.min.css">
+    <link rel="stylesheet" href="vendor/owl-slider/owl.carousel.css">
+    <link rel="stylesheet" href="vendor/slideshow/slideshow.css">
+    <link rel="stylesheet" href="vendor/lightbox/lity.min.css">
+    <!-- Theme CSS -->
+    <link id="theme" rel="stylesheet" href="css/theme.css">
+    <script src="vendor/modernizr.js"></script>
+    <script>window.onload=function() {
+  // Month,Day,Year,Hour,Minute,Second
+  upTime('aug,11,2017,18:00:00'); // Time since the stream started
+};
+function upTime(countTo) {
+  now = new Date();
+  countTo = new Date(countTo);
+  difference = (now-countTo);
+  days=Math.floor(difference/(60*60*1000*24)*1);
+  years = Math.floor(days / 365);
+  if (years > 1){ days = days - (years * 365)}
+  hours=Math.floor((difference%(60*60*1000*24))/(60*60*1000)*1);
+  mins=Math.floor(((difference%(60*60*1000*24))%(60*60*1000))/(60*1000)*1);
+  secs=Math.floor((((difference%(60*60*1000*24))%(60*60*1000))%(60*1000))/1000*1);
+  document.getElementById('years').firstChild.nodeValue = years;
+  document.getElementById('days').firstChild.nodeValue = days;
+  document.getElementById('hours').firstChild.nodeValue = hours;
+  document.getElementById('minutes').firstChild.nodeValue = mins;
+  document.getElementById('seconds').firstChild.nodeValue = secs;
+
+  clearTimeout(upTime.to);
+  upTime.to=setTimeout(function(){ upTime(countTo); },1000);
+}</script>
+</head>
+
+<body>
+
+<?php include("includes/header.php"); ?>
+        <!-- Header -->
+        <header id="sp3" class="dark1" style="background-image:url(img/headers/subpage.jpg)"
+            data-overlay="9">
+            <div class="header-in">
+                <div class="caption2">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6 page-title">
+                                <h1 class="h3">24/7 Nintendo Music Live Stream</h1></div>
+                            <div class="col-xs-6 right breadcrumbs hidden-xs">
+                                <a href="https://dystify.com">Home</a> <i class="ion-chevron-right"></i>                                <a href="#">Stream Selects</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+
+        <!-- Info - About 1 -->
+        <section>
+            <div class="container border">
+                <h1 class="h2">Uptime Test</h1>
+              <!-- Display the countdown timer in an element -->
+<p id="demo"></p>
+
+<div id="countup">
+ Stream has been online for <p id="years">00</p> <p class="timeRefYears">years</p>, <p id="days">00</p> <p class="timeRefDays">days</p>, <p id="hours">00</p> <p class="timeRefHours">hours</p>, <p id="minutes">00</p> <p class="timeRefMinutes">minutes and</p> <p id="seconds">00</p> <p class="timeRefSeconds">seconds!</p>
+</div>
+
+            </div>
+        </section>
+
+  
+<?php include("includes/footer.php"); ?>     
+</body>
+
+</html>

@@ -1,0 +1,50 @@
+body {
+	background-color: #434343;
+}
+
+.song-select {
+	background-color: #505050;
+}
+
+.tree-nav {
+	background-color: #606060;
+}
+
+th, td {
+	color: #8b9195;
+}
+
+td.table-header {
+	color: rgb(104, 108, 112);
+}
+
+td.cooldown {
+	color: hsla(218, 5%, 47%, 0.6);
+	background-color: rgba(190, 190, 190, 125);
+}
+
+.selected {
+	background-color: rgba(114, 118, 114, 0.4);
+}
+
+.ost-selected {
+	background-color: rgba(114, 118, 114, 0.4);
+}
+
+li.selected {
+	background-color: rgb(150, 150, 150);
+	color: hsla(240, 5%, 47%, .8);
+	padding: 5px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+	background-color: #434343;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+	background-color: black;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+	background-color: #282828;
+}

@@ -1,0 +1,164 @@
+{
+	"osts": {
+		"Super Mario Oddysey": {
+			"franchise_name": "Mario",
+			"ost_name": "Super Mario Oddysey",
+			"songs": [
+				 {
+         "song_id":"",
+         "song_name":"Jump Up Super Star (Short)",
+         "ost_name":"Super Mario Oddysey",
+         "franchise_name":"Mario",
+         "song_length":"161",
+         "cost":"500",
+         "rating_pct":"-1",
+         "rating_num":"0",
+         "last_play":"2017-09-30 16:41:02",
+         "times_played":"10"
+				},
+				{
+         "song_id":"",
+         "song_name":"Jump Up Super Star",
+         "ost_name":"Super Mario Oddysey",
+         "franchise_name":"Mario",
+         "song_length":"250",
+         "cost":"500",
+         "rating_pct":"-1",
+         "rating_num":"0",
+         "last_play":"2017-09-30 16:41:02",
+         "times_played":"10"
+				}
+			]
+		},
+		"Donkey Kong Country 2: Diddy's Kong Quest": {
+			"franchise_name": "Donkey Kong Country",
+			"ost_name": "Donkey Kong Country 2: Diddy's Kong Quest",
+			"songs": [
+				{
+         "song_id":"C:\\Users\\Duemmer\\Music\\mh\\Donkey Kong Country 2 - Diddy's Kong Quest\\dkc2-01-k.-rool-returns.mp3",
+         "song_name":"K. Rool Returns",
+         "ost_name":"Donkey Kong Country 2: Diddy's Kong Quest",
+         "franchise_name":"",
+         "song_length":"41",
+         "cost":"-150",
+         "rating_pct":"-1",
+         "rating_num":"0",
+         "last_play":"2017-09-30 16:41:02",
+         "times_played":"10"
+				},
+				{
+         "song_id":"C:\\Users\\Duemmer\\Music\\mh\\Donkey Kong Country 2 - Diddy's Kong Quest\\dkc2-02-welcome-to-crocodile-isle.mp3",
+         "song_name":"Welcome to Crocodile Isle",
+         "ost_name":"Donkey Kong Country 2: Diddy's Kong Quest",
+         "franchise_name":"",
+         "song_length":"74",
+         "cost":"250",
+         "rating_pct":"-1",
+         "rating_num":"0",
+         "last_play":"2017-10-04 13:37:42",
+         "times_played":"10"
+				},
+				{
+         "song_id":"C:\\Users\\Duemmer\\Music\\mh\\Donkey Kong Country 2 - Diddy's Kong Quest\\dkc2-03-klomp-s-romp.mp3",
+         "song_name":"Klomp's Romp",
+         "ost_name":"Donkey Kong Country 2: Diddy's Kong Quest",
+         "franchise_name":"",
+         "song_length":"135",
+         "cost":"-150",
+         "rating_pct":"-1",
+         "rating_num":"0",
+         "last_play":"2017-09-30 12:11:48",
+         "times_played":"9"
+				},
+				{
+         "song_id":"C:\\Users\\Duemmer\\Music\\mh\\Donkey Kong Country 2 - Diddy's Kong Quest\\dkc2-04-jib-jig.mp3",
+         "song_name":"Jib Jig",
+         "ost_name":"Donkey Kong Country 2: Diddy's Kong Quest",
+         "franchise_name":"",
+         "song_length":"132",
+         "cost":"150",
+         "rating_pct":"-1",
+         "rating_num":"0",
+         "last_play":"2017-09-27 12:31:11",
+         "times_played":"9"
+				}
+			]
+		},
+		"Super Smash Bros. for Wii U": {
+			"franchise_name": "Super Smash Bros",
+			"ost_name": "Super Smash Bros. for Wii U",
+			"volumes": [
+				{
+					"name": "Volume 1",
+					"songs": [
+							{
+							"song_id":"",
+							"song_name":"Jump Up Super Star",
+							"ost_name":"Super Mario Oddysey",
+							"franchise_name":"Mario",
+							"song_length":"161",
+							"cost":"500",
+							"rating_pct":"-1",
+							"rating_num":"0",
+							"last_play":"2017-09-30 16:41:02",
+							"times_played":"10"
+						 }
+					]
+				},
+				{
+					"name": "Volume 2",
+					"songs": [
+
+					]
+				}
+			]
+		},
+		"game1": {
+			"franchise_name": "Super Smash Bros",
+			"ost_name": "foo",
+			"volumes": []
+		},
+		"game2": {
+			"franchise_name": "Super Smash Bros",
+			"ost_name": "foo2",
+			"volumes": []
+		},
+		"game3": {
+			"franchise_name": "Super Smash Bros",
+			"ost_name": "foo3",
+			"volumes": []
+		},
+		"game4": {
+			"franchise_name": "Super Smash Bros",
+			"ost_name": "foo4",
+			"volumes": []
+		},
+		"game5": {
+			"franchise_name": "Super Smash Bros",
+			"ost_name": "foo5",
+			"volumes": []
+		},
+		"game6": {
+			"franchise_name": "Super Smash Bros",
+			"ost_name": "foo6",
+			"volumes": []
+		},
+		"game7": {
+			"franchise_name": "Super Smash Bros",
+			"ost_name": "foo7",
+			"volumes": []
+		}
+	},
+	"cols":[
+		"song_id",
+		"song_name",
+		"ost_name",
+		"franchise_name",
+		"song_length",
+		"cost",
+		"rating_pct",
+		"rating_num",
+		"last_play",
+		"times_played"
+	]
+}

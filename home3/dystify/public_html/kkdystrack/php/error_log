@@ -1,0 +1,577 @@
+[02-Dec-2017 19:14:17 America/Chicago] PHP Warning:  fopen(body): failed to open stream: No such file or directory in /home3/dystify/public_html/kkdystrack/php/ifttt.php on line 23
+[02-Dec-2017 19:14:17 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home3/dystify/public_html/kkdystrack/php/ifttt.php on line 23
+[02-Dec-2017 19:14:59 America/Chicago] PHP Warning:  fopen(../body): failed to open stream: No such file or directory in /home3/dystify/public_html/kkdystrack/php/ifttt.php on line 23
+[02-Dec-2017 19:14:59 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home3/dystify/public_html/kkdystrack/php/ifttt.php on line 23
+[02-Dec-2017 19:16:04 America/Chicago] PHP Warning:  fopen(/home3/dystify/public_html/kkdystrack/body): failed to open stream: No such file or directory in /home3/dystify/public_html/kkdystrack/php/ifttt.php on line 23
+[02-Dec-2017 19:16:04 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home3/dystify/public_html/kkdystrack/php/ifttt.php on line 23
+[03-Dec-2017 01:01:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:02:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:02:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:03:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:03:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:03:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:04:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:04:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:05:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:05:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:05:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:05:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:15:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[03-Dec-2017 01:15:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/dystify/public_html/kkdystrack/php/marioparty.php on line 12
+[16-Dec-2017 17:11:56 America/Chicago] PHP Warning:  fopen(/home3/dystify/public_html/kkdystrack/body): failed to open stream: No such file or directory in /home3/dystify/public_html/kkdystrack/php/ifttt_chatmessage.php on line 23
+[16-Dec-2017 17:11:56 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home3/dystify/public_html/kkdystrack/php/ifttt_chatmessage.php on line 23
+[16-Dec-2017 18:20:20 America/Chicago] PHP Warning:  preg_match(): Unknown modifier 'g' in /home3/dystify/public_html/kkdystrack/php/ifttt_chatmessage.php on line 36
+[16-Dec-2017 18:20:20 America/Chicago] PHP Warning:  preg_match(): Unknown modifier 'g' in /home3/dystify/public_html/kkdystrack/php/ifttt_chatmessage.php on line 43
+[16-Dec-2017 19:04:07 America/Chicago] PHP Warning:  preg_match(): Unknown modifier '.' in /home3/dystify/public_html/kkdystrack/php/ifttt_chatmessage.php on line 36
+[16-Dec-2017 19:35:59 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot pass parameter 1 by reference in /home3/dystify/public_html/kkdystrack/php/ifttt_chatmessage.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/dystify/public_html/kkdystrack/php/ifttt_chatmessage.php on line 53
+[21-Dec-2017 16:12:33 America/Chicago] PHP Warning:  dirname() expects exactly 1 parameter, 2 given in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 42
+[21-Dec-2017 16:12:33 America/Chicago] PHP Warning:  fopen(/ost_tree.json): failed to open stream: Permission denied in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 42
+[21-Dec-2017 16:12:33 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 43
+[21-Dec-2017 16:12:59 America/Chicago] PHP Warning:  dirname() expects exactly 1 parameter, 2 given in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 42
+[21-Dec-2017 16:12:59 America/Chicago] PHP Warning:  fopen(/ost_tree.json): failed to open stream: Permission denied in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 42
+[21-Dec-2017 16:12:59 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 43
+[21-Dec-2017 16:13:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in Command line code on line 1
+[30-Dec-2017 11:39:05 America/Chicago] PHP Warning:  str_split() expects parameter 2 to be integer, string given in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 37
+[30-Dec-2017 11:39:11 America/Chicago] PHP Warning:  str_split() expects parameter 2 to be integer, string given in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 37
+[30-Dec-2017 11:39:11 America/Chicago] PHP Warning:  str_split() expects parameter 2 to be integer, string given in /home3/dystify/public_html/kkdystrack/php/ost_tree.php on line 37
+[10-Jan-2018 09:29:46 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[01-Feb-2018 14:14:16 America/Chicago] PHP Warning:  array_keys() expects parameter 1 to be array, integer given in /home3/dystify/public_html/kkdystrack/php/request_page.php on line 27
+[01-Feb-2018 14:14:16 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/dystify/public_html/kkdystrack/php/request_page.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/dystify/public_html/kkdystrack/php/request_page.php on line 35
+[01-Feb-2018 14:14:44 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/dystify/public_html/kkdystrack/php/request_page.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/dystify/public_html/kkdystrack/php/request_page.php on line 35
+[04-Feb-2018 14:28:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:90
+Stack trace:
+#0 /home3/dystify/public_html/kkdystrack/php/login_callback.php(32): Viewer::fromYT(Object(Google_Service_YouTube_ChannelListResponse))
+#1 {main}
+  thrown in /home3/dystify/public_html/kkdystrack/php/inc/viewer.php on line 90
+[04-Feb-2018 14:28:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:90
+Stack trace:
+#0 /home3/dystify/public_html/kkdystrack/php/login_callback.php(32): Viewer::fromYT(Object(Google_Service_YouTube_ChannelListResponse))
+#1 {main}
+  thrown in /home3/dystify/public_html/kkdystrack/php/inc/viewer.php on line 90
+[04-Feb-2018 14:29:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:90
+Stack trace:
+#0 /home3/dystify/public_html/kkdystrack/php/login_callback.php(32): Viewer::fromYT(Object(Google_Service_YouTube_ChannelListResponse))
+#1 {main}
+  thrown in /home3/dystify/public_html/kkdystrack/php/inc/viewer.php on line 90
+[04-Feb-2018 14:31:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 38
+[04-Feb-2018 14:31:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 48
+[04-Feb-2018 14:32:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 38
+[04-Feb-2018 14:32:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 48
+[04-Feb-2018 14:35:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 38
+[04-Feb-2018 14:35:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 48
+[04-Feb-2018 14:38:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 38
+[04-Feb-2018 14:38:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 48
+[04-Feb-2018 14:38:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 38
+[04-Feb-2018 14:38:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 48
+[04-Feb-2018 14:39:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 38
+[04-Feb-2018 14:39:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 48
+[04-Feb-2018 14:41:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 38
+[04-Feb-2018 14:41:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/inc/viewer.php:280) in /home3/dystify/public_html/kkdystrack/php/login_callback.php on line 48
+[06-Feb-2018 09:49:12 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:49:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:49:18 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:49:18 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:49:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:49:27 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:49:28 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:49:29 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:13 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:26 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:45 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:46 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:46 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:47 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:57 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:50:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:03 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:06 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:08 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:17 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:17 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:23 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:26 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:33 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:34 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:34 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:34 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:34 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:36 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:38 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:39 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:44 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:44 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:48 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:57 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:57 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:51:58 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:00 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:01 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:08 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:13 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:14 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:16 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:17 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:22 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:22 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:27 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:28 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:31 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:33 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:33 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:36 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:36 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:37 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:37 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:42 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:42 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:44 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:44 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:46 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:48 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:51 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:53 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:52:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:53:39 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:53:44 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:53:44 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:53:49 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:53:52 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:53:52 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:53:59 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:09 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:11 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:54:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[06-Feb-2018 09:55:26 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:29:55 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:29:55 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:29:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:29:56 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:29:58 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:29:59 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:30:18 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:30:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:30:31 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:30:38 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:30:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[07-Feb-2018 13:30:54 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:22:46 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:22:56 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:00 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:23:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:24:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:24:31 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:24:32 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:24:38 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:30:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:30:26 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:30:31 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:30:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:30:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:30:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:30:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:31:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:32:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:33:26 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:33:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:33:36 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:33:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:33:45 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:33:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:33:55 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:34:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:35:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:35:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:35:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:35:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:35:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:35:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:36:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:36:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:36:30 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:36:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:36:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:36:45 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:37:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:37:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:37:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:37:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:37:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:37:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:37:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:38:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:38:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:38:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:38:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:38:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:36 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:39:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:06 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:40:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:41:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:42:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:42:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:42:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:42:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:42:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:43:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:43:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:43:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:43:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:43:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:44:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:44:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:44:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:44:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:44:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:44:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:44:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:44:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:45:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:45:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:45:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:45:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:45:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:45:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:45:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:46:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:46:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:46:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:46:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:46:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:46:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:47:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:47:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:47:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:47:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:47:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:47:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:47:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:48:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:48:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:48:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:48:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:48:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:48:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:16 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:49:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:41 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:46 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:50:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:51:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:51:22 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:51:27 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:51:33 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:51:38 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:51:41 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:51:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:51:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:41 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:52:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:27 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:53:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:54:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:54:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:54:37 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:54:46 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:55:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:55:09 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:55:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:55:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:55:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:55:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:56:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:56:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:56:11 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:56:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:56:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:56:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:56:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:57:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:57:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:57:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:57:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:57:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:58:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:58:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:58:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:58:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:58:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:58:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:59:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:59:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:59:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:59:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:59:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:59:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 07:59:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:00:36 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:00:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:01:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:01:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:01:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:01:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:01:40 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:01:56 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:02:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:02:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:02:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:02:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:02:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:02:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:02:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:02:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:03:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:03:07 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:08:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:09:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:09:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:09:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:09:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:09:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:10:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:11:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:11:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:11:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:11:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:12:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:12:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:12:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:12:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:12:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:12:41 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:12:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:12:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:13:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:13:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:13:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:13:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:13:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:13:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:14:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:14:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:14:20 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:14:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:14:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:14:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:14:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:15:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:15:26 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:15:35 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:15:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:15:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:16:03 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:16:14 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:16:16 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[12-Feb-2018 08:16:23 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[18-Feb-2018 15:53:39 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/dystify/public_html/kkdystrack/php/logout.php on line 4
+[18-Feb-2018 15:53:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/logout.php:4) in /home3/dystify/public_html/kkdystrack/php/logout.php on line 6
+[18-Feb-2018 15:53:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dystify/public_html/kkdystrack/php/logout.php:4) in /home3/dystify/public_html/kkdystrack/php/logout.php on line 7
+[23-Feb-2018 08:02:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:15 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:15 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:15 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:15 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:15 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:15 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:16 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:16 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:16 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:16 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:16 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:16 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[23-Feb-2018 08:02:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:04:58 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:04:59 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:04:59 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:04:59 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:01 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:09 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:14 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:17 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:18 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:29 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:33 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:53 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:05:58 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:01 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:01 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:01 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:32 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:32 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:36 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:37 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:38 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:38 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:45 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:06:45 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27
+[03-Mar-2018 03:07:44 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home3/dystify/public_html/kkdystrack/php/inc/dbUtil.php on line 27

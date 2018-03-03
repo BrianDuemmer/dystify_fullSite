@@ -1,0 +1,25 @@
+.song-select {
+	grid-area: s;
+	border-radius: 5px;
+	text-align: center;
+	overflow-y: scroll;
+}
+
+.song-container {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(21vh, 3);
+  grid-template-areas:
+    "s s s s s s s m m m"
+		"s s s s s s s m m m"
+		"s s s s s s s m m m";
+  user-select: none;
+	min-height: 0;
+	min-width: 0;
+}
+
+.box {
+	min-width: 0;
+	max-height: calc(21vh * 3);
+}

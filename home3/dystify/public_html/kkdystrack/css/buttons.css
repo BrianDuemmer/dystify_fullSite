@@ -1,0 +1,47 @@
+
+button.confirm {
+	position: absolute;
+	transform: translate(0, 0);
+
+  border: none;
+	border-radius: 100%;
+	padding: 25px;
+
+	width: 20%; height: 20%;
+
+  background-color: #0097a7;
+
+	background-image: url('../img/checkcircle.svg');
+	background-size: 20%;
+	background-repeat: no-repeat;
+	background-position: center;
+
+	color: #434343;
+
+	display: block;
+	transition: all 0.4s ease 0s;
+
+	z-index: 100;
+}
+
+button.theme-switch {
+	position: fixed;
+
+  border: none;
+	border-radius: 30px;
+
+	text-align: center;
+	color: #434343;
+
+  transition: all 0.3s ease 0s;
+	display: inline-block;
+
+	background-image: url( 'https://image.freepik.com/free-icon/clear-sun_318-30039.jpg' );
+	background-size: 40px 40px;
+
+	width: 40px;
+	height: 40px;
+
+	top: 0;
+	right: 0;
+}
